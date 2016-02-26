@@ -1,4 +1,4 @@
-curl -s https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash;
+sudo apt-get update;
 sudo apt-get install -y build-essential gcc g++ curl \
                 cmake libreadline-dev git-core libqt4-core libqt4-gui \
                 libqt4-dev libjpeg-dev libpng-dev ncurses-dev \
